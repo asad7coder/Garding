@@ -1,0 +1,22 @@
+.about{
+  margin-left: 20px;
+  margin-top: 40px;
+}
+.row2{
+  display: flex;
+
+}
+.about-col1,.about-col2,.about-col3{
+  width: 30%;
+  margin-left: 30px;
+  
+}
+.about .about-col3 img{
+  width: 300px;
+  height: 300px;
+  margin-top: 70px;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,32 @@
+.team{
+  width: 100%;
+  margin: 20px;
+}
+
+.team-row1 img,.team-row2 img{
+  width: 200px;
+  border-radius: 6px;
+
+}
+
+#tttyy{
+  display: flex;
+  justify-content: space-between ;
+  /* margin-left:50px ; */
+}
+.team-row1 ,.team-row2{
+  width: 100vw;
+  display: flex;
+  margin-left: 20px;
+
+}
+.data{
+  margin-left: 20px;
+
+}
+.data h1{
+  width: 140px;
+}
+.data p{
+  width: 147px;
+}

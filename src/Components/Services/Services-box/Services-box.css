@@ -1,0 +1,12 @@
+.Services-box{
+  width: 285px;
+  margin: 15px ;
+}
+.Services-box img{
+  height: 300px;
+  border-radius:6px;
+
+}
+.Services-box  .caption{
+color:#2270e2 ;
+}
