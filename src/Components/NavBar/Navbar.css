@@ -33,6 +33,9 @@ nav ul li{
   margin-left: 40px;
   cursor: pointer;
 }
+nav ul li:hover{
+  color: green;
+}
 .navBtn{
   margin-left: 100px;
 }
