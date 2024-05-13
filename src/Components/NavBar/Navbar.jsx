@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <div className="navbar">
       <nav>
-        <h1>Green line laborer</h1>
+        <h1 className="logo">Green line laborer</h1>
         <ul>
           <li>
             <Link to="hero" smooth={true} offset={-400} duration={500}>
@@ -30,7 +30,7 @@ const Navbar = () => {
           </li>
           <li>
             {" "}
-            <button className="btn">
+            <button className="btn navBtn">
               <Link to="subscribe" smooth={true} offset={-100} duration={500}>
                 Contact
               </Link>
