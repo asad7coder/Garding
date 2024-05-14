@@ -7,8 +7,8 @@ const About = () => {
     <div className="about">
       <div className="title">
         <div className="title-col1">
-          <h1>Our Services</h1>
-          <button className="btn">View All Services</button>
+          <h1>About</h1>
+          {/* <button className="btn">View All Services</button> */}
         </div>
       </div>
       <div className="row2">

@@ -6,10 +6,10 @@
   padding: 30px 20px 40px 40px;
 }
 .left-hero{
-width: 65%;
+width: 40%;
 }
 .left-hero h1{
-  font-size: 60px;
+  font-size: 50px;
   line-height: 57px;
   letter-spacing: 6px;
   color: rgb(44, 44, 44);
@@ -17,6 +17,9 @@ width: 65%;
 .left-hero p{
   padding: 20px 0 20px 0;
   color: rgb(73, 72, 72);
+}
+.right-hero{
+  width: 50%;
 }
 .right-hero img{
   width: 300px;

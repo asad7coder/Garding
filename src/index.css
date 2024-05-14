@@ -7,6 +7,7 @@
 body{
   width: 1280px;
   height: 100vh;
+  margin: 0 20px;
   background:  #f4f8fd;
 
 
@@ -20,6 +21,7 @@ body{
   outline: 0;
   border-radius: 6px;
   cursor: pointer;
+  margin: 0 20px;
 }
 .bnt:hover{
   background: white;
@@ -27,10 +29,9 @@ body{
   border: 2px solid green;
 }
 .title-col1{
+  width: 74%;
   display: flex;
   justify-content: space-between;
-  /* margin-left: 20px; */
-  margin: 0 20px 0 30px;
-  margin-right: 3%;
+  margin-left: 17px;
 
 }
