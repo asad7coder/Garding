@@ -9,7 +9,8 @@
 
 }
 
-#tttyy{
+#tttyy{ 
+  width: 75%;
   display: flex;
   justify-content: space-between ;
   /* margin-left:50px ; */
