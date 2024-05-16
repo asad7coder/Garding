@@ -7,8 +7,8 @@ const Team = () => {
     <div className="team">
       <div className="title">
         <div className="title-col1-team">
-          <h1>Our Team</h1>
-          <p>
+          <h1 className="ourTeamH">Our Team</h1>
+          <p className="ourTeamP">
             At Green Line Laborer, our team of passionate gardeners come
             together to transform outdoor spaces into vibrant havens, one plant
             at a time.

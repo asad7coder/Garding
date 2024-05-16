@@ -1,5 +1,5 @@
 .team{
-  width: 100%;
+  width: 90%;
   margin: 20px;
 }
 
@@ -30,4 +30,14 @@
 }
 .data p{
   width: 147px;
+}
+.ourTeamH,.ourTeamP{
+  width: 80%;
+  text-align: center;
+  color: rebeccapurple;
+}
+.ourTeamP{
+  margin: 0 0 30px 0;
+  padding: 0 11em ;
+
 }

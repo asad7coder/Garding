@@ -1,5 +1,5 @@
 .subscribe{
-  width: 97vw;
+  width: 70%;
   height: 200px;
   padding: 40px 0 0 0;
   text-align: center;
@@ -29,4 +29,13 @@
     font-size: 20px;
     cursor: pointer;
     border: 2px solid #2270e2;
+}
+#copyFooter{
+  width: 50%;
+  height: 40px;
+  margin-top: 30px;
+  background-color: black;
+  color: wheat;
+  border-radius: 30px;
+  padding-top: 9px;
 }

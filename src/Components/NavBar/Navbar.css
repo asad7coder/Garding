@@ -1,6 +1,7 @@
 .navbar{
-  width: 1280px;
+  width: 100%;
   margin: 30px;
+  margin: 0 auto;
   margin-bottom: 40px;
   
 }
@@ -11,10 +12,10 @@ nav{
   display: flex;
   align-items: center;
   /* justify-content: space-between; */
+  background: white;
   position: fixed;
   top: 0;
   left: 0;
-  background: white;
 }
 .logo{
   width: 30%;

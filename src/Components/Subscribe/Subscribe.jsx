@@ -10,6 +10,7 @@ const Subscribe = () => {
       <input type="text" placeholder="Email Address" />
       <br />
       <button className="btn subscribe-btn">Send</button>
+      <p id="copyFooter">© Green Line Laborer 2024 All Rights Reserved </p>
     </div>
   );
 };

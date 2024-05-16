@@ -1,6 +1,6 @@
 .hCustomers{
   display: flex;
-  /* width: 100vw; */
+  width: 72%;
   margin: 40px 10px 20px 10px;
 }
 .hCustomers .hc-left{

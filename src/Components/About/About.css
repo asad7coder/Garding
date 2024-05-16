@@ -1,4 +1,5 @@
 .about{
+  width: 70%;
   margin-left: 20px;
   margin-top: 40px;
 }
@@ -15,7 +16,7 @@
 .about .about-col3 img{
   width: 300px;
   height: 300px;
-  margin-top: 70px;
+  /* margin-top: 70px; */
   border-radius: 6px;
   display: flex;
   align-items: center;
