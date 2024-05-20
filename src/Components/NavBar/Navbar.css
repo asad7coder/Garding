@@ -19,7 +19,7 @@ nav{
 }
 .logo{
   width: 30%;
-  color:green;
+  color:rgb(9, 202, 202);
 }
 nav ul{
   display: flex;
