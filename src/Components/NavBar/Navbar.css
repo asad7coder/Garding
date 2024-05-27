@@ -3,15 +3,18 @@
   /* margin: 30px; */
   /* margin: 0 auto; */
   margin-bottom: 40px;
+  position: sticky;
+  top: 0;
+
   
 } 
 nav{
   padding: 20px;
   padding-left: 50px;
-  width: 72%;
+  width: 100%;
   display: flex;
-  gap: 30px;
-  align-items: center;
+  /* gap: 30px; */
+  /* align-items: center; */
   /* justify-content: space-between; */
   background: white;
   position:static;
